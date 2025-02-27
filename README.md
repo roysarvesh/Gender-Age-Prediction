@@ -59,6 +59,8 @@ Controls
 
     For app.py (Streamlit Web App) – Click the Stop button to exit real-time mode.
     For detect.py (OpenCV Script) – Press 'Q' to quit the webcam window.
+![NoteGPT-Flowchart-1740660427966](https://github.com/user-attachments/assets/60cdce42-2228-49b6-8dc7-3b3b550f7c86)
+
 
 Author
 
