@@ -65,7 +65,7 @@ Controls
 Author
 
 👤 roysarvesh
-🔗 GitHub: github.com/roysarvesh
+🔗 GitHub: https://github.com/roysarvesh
 Contributions & Issues
 
 Feel free to open an issue or contribute with a pull request!
